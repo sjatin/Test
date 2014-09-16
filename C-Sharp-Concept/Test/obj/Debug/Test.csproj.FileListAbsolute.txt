@@ -1,0 +1,5 @@
+D:\Project POC\C-Sharp-Concepts\Test\bin\Debug\Test.dll
+D:\Project POC\C-Sharp-Concepts\Test\bin\Debug\Test.pdb
+D:\Project POC\C-Sharp-Concepts\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Project POC\C-Sharp-Concepts\Test\obj\Debug\Test.dll
+D:\Project POC\C-Sharp-Concepts\Test\obj\Debug\Test.pdb

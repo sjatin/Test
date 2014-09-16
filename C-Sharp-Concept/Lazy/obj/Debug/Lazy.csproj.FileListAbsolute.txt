@@ -1,0 +1,5 @@
+D:\Project POC\C-Sharp-Concepts\Lazy\obj\Debug\Lazy.csprojResolveAssemblyReference.cache
+D:\Project POC\C-Sharp-Concepts\Lazy\bin\Debug\Lazy.dll
+D:\Project POC\C-Sharp-Concepts\Lazy\bin\Debug\Lazy.pdb
+D:\Project POC\C-Sharp-Concepts\Lazy\obj\Debug\Lazy.dll
+D:\Project POC\C-Sharp-Concepts\Lazy\obj\Debug\Lazy.pdb
